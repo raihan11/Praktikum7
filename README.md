@@ -116,7 +116,7 @@ main()
 4. masuan char untuk intruksi kata yang ingin kita ubah dan intruksi balik
 5. cetak pemblikan kata dengan memanggil funsi rekrusif menggunkan type datany.
 
-**Pseudecoede**
+**Pseudecode**
 ```
 #include
 #include
