@@ -105,7 +105,7 @@ main()
  cout << " AxB = " << kali_rekursif(a, b) << endl;
 }
 ```
-**Hasiil**
+**Hasil**
 ![Hasil](https://github.com/raihan11/Praktikum7/blob/master/latihan2/soal2.png)
 
 ##soal3.cpp
